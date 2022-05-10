@@ -2,8 +2,8 @@
 ##
 - Hoje trabalho com Help Desk
 
-- Estudando <img align="center" alt="Thiago-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-- <img align="center" alt="Thiago-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+- Estudando <img align="center" alt="Thiago-Java" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
   
 -  Bacharel em Ciência e Tecnologia
 
