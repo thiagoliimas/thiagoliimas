@@ -1,6 +1,6 @@
 ### Olá! Thiago Lima aqui 🖖 
 ##
-- Hoje trabalho com Help Desk
+- Hoje trabalho com Desenvolvimento Java
 
 - Estudando <img align="center" alt="Thiago-Java" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
